@@ -5,8 +5,6 @@ Prototypal product database for `The Grainery Organic Food Co-op`_.
 
 .. _The Grainery Organic Food Co-op: http://thegrainery.ca
 
-.. image:: http://github.com/intuited/grainery-db/raw/dist/screenshot.png
-
 Acquisition
 ^^^^^^^^^^^
 
@@ -33,6 +31,8 @@ The system consists of two different forms:
 labels
 ~~~~~~
 
+.. image:: http://github.com/intuited/grainery-db/raw/dist/screenshot.png
+
 The first form, which should pop up when you open the document,
 shows a list of products:
 their titles, the category (e.g. "Flours") that they come under,
@@ -53,6 +53,8 @@ in some sort of useful form.
 
 product info
 ~~~~~~~~~~~~
+
+.. image:: http://github.com/intuited/grainery-db/raw/dist/screenshot-admin.png
 
 The other part of the app is the product info page.
 You can get there by clicking the button
