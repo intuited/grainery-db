@@ -5,6 +5,8 @@ Prototypal product database for `The Grainery Organic Food Co-op`_.
 
 .. _The Grainery Organic Food Co-op: http://thegrainery.ca
 
+.. image:: http://github.com/intuited/grainery-db/raw/dist/screenshot.png
+
 Acquisition
 ^^^^^^^^^^^
 
