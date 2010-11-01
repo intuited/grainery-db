@@ -11,17 +11,13 @@ Acquisition
 The database system is available for `download from github`_.
 
 .. _download from github:
-   http://github.com/intuited/grainery-db/raw/dist/grainery-db.zip
+   http://github.com/intuited/grainery-db/raw/dist/grainery-stock-database.odb
 
 Installation
 ^^^^^^^^^^^^
 
 The system is an OpenOffice document,
-so you should be able to just unzip the zip file,
-using 7zip_ or some other archive program,
-and open the .odb file contained within.
-
-.. _7zip: http://www.7-zip.org/
+so you should just be able to open it as downloaded.
 
 Operation
 ^^^^^^^^^
@@ -93,3 +89,9 @@ It is possible to rework the system so that
 it can connect to an online database
 and use the current pricing formula for the labels it produces.
 
+An option to export all labels to PDF or OpenOffice Writer format
+may also be desirable.
+
+In addition, the macro code,
+especially that responsible for tuning the tamplate layout,
+is in need of refactoring, and probably a rewrite in Python.
